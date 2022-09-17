@@ -1,0 +1,381 @@
+[
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "debug",
+    "cppPath": "/Users/teddya./wpilib/2022/roborio/bin/arm-frc2022-linux-gnueabi-g++",
+    "cPath": "/Users/teddya./wpilib/2022/roborio/bin/arm-frc2022-linux-gnueabi-gcc",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "/Users/teddya./.gradle/caches/transforms-3/332993c11c0391da8df0bbbf8e4bd981/transformed/wpilibNewCommands-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/72615a94785a6ac6511fe6c0029009a0/transformed/wpilibc-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/52cadca5d101b004f60848d6ccac130d/transformed/ntcore-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/d744c3e4a592a4a9cbcb119e3f1c328d/transformed/hal-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/01d29e87d88fa3871f3b207030f312a6/transformed/wpimath-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/c561890f1d7fd62cdf0cced8110d4034/transformed/wpiutil-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/5de91f27d876546cbad460c0c2e42155/transformed/netcomm-2022.4.0-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/31121723a6ef10a3e3a2f58cfcb7f843/transformed/chipobject-2022.4.0-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/b40d5fbdd20bc20f66ed8aca64d4dbee/transformed/visa-2022.4.0-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/f8d1dc678d3199cdfde63b3828416131/transformed/cameraserver-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/feca21a2fdb8c8328614076a8cc5f142/transformed/cscore-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/9dc479750334a039acad82caa71af7fd/transformed/opencv-cpp-4.5.2-1-headers/",
+      "/Users/teddya./Documents/GitHub/CPP TEST/src/main/include/",
+      "/Users/teddya./.gradle/caches/transforms-3/e7db8dc2667dfe07fd150f00e79dcd98/transformed/wpilibNewCommands-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/bf2099baeaee6597e6800f987fbb779b/transformed/wpilibc-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/ade3b2ce4509301605730a2574886a9f/transformed/ntcore-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/12166df8a365b867d87965d469915b89/transformed/hal-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/24e512db8dbf3cc1393af318c8fe4a9a/transformed/wpimath-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/5f5f4a5ce61fa0f212836b95156a7311/transformed/wpiutil-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/816cf12645751513696ab5662871ca54/transformed/cameraserver-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/3ae37445f1ca1afb405827c8f200b2fa/transformed/cscore-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/58d78f5e9dedfcce6a8bc6f6e840647b/transformed/opencv-cpp-4.5.2-1-sources/"
+    ],
+    "allLibSources": [
+      "/Users/teddya./.gradle/caches/transforms-3/e7db8dc2667dfe07fd150f00e79dcd98/transformed/wpilibNewCommands-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/bf2099baeaee6597e6800f987fbb779b/transformed/wpilibc-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/ade3b2ce4509301605730a2574886a9f/transformed/ntcore-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/12166df8a365b867d87965d469915b89/transformed/hal-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/24e512db8dbf3cc1393af318c8fe4a9a/transformed/wpimath-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/5f5f4a5ce61fa0f212836b95156a7311/transformed/wpiutil-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/816cf12645751513696ab5662871ca54/transformed/cameraserver-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/3ae37445f1ca1afb405827c8f200b2fa/transformed/cscore-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/58d78f5e9dedfcce6a8bc6f6e840647b/transformed/opencv-cpp-4.5.2-1-sources/"
+    ],
+    "allLibHeaders": [
+      "/Users/teddya./.gradle/caches/transforms-3/332993c11c0391da8df0bbbf8e4bd981/transformed/wpilibNewCommands-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/72615a94785a6ac6511fe6c0029009a0/transformed/wpilibc-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/52cadca5d101b004f60848d6ccac130d/transformed/ntcore-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/d744c3e4a592a4a9cbcb119e3f1c328d/transformed/hal-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/01d29e87d88fa3871f3b207030f312a6/transformed/wpimath-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/c561890f1d7fd62cdf0cced8110d4034/transformed/wpiutil-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/5de91f27d876546cbad460c0c2e42155/transformed/netcomm-2022.4.0-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/31121723a6ef10a3e3a2f58cfcb7f843/transformed/chipobject-2022.4.0-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/b40d5fbdd20bc20f66ed8aca64d4dbee/transformed/visa-2022.4.0-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/f8d1dc678d3199cdfde63b3828416131/transformed/cameraserver-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/feca21a2fdb8c8328614076a8cc5f142/transformed/cscore-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/9dc479750334a039acad82caa71af7fd/transformed/opencv-cpp-4.5.2-1-headers/",
+      "/Users/teddya./Documents/GitHub/CPP TEST/src/main/include/"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "/Users/teddya./Documents/GitHub/CPP TEST/src/main/cpp/"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "/Users/teddya./Documents/GitHub/CPP TEST/src/main/include/"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++17",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-rdynamic",
+              "-pthread",
+              "-Og",
+              "-g"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "/Users/teddya./.gradle/caches/transforms-3/332993c11c0391da8df0bbbf8e4bd981/transformed/wpilibNewCommands-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/72615a94785a6ac6511fe6c0029009a0/transformed/wpilibc-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/52cadca5d101b004f60848d6ccac130d/transformed/ntcore-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/d744c3e4a592a4a9cbcb119e3f1c328d/transformed/hal-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/01d29e87d88fa3871f3b207030f312a6/transformed/wpimath-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/c561890f1d7fd62cdf0cced8110d4034/transformed/wpiutil-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/5de91f27d876546cbad460c0c2e42155/transformed/netcomm-2022.4.0-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/31121723a6ef10a3e3a2f58cfcb7f843/transformed/chipobject-2022.4.0-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/b40d5fbdd20bc20f66ed8aca64d4dbee/transformed/visa-2022.4.0-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/f8d1dc678d3199cdfde63b3828416131/transformed/cameraserver-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/feca21a2fdb8c8328614076a8cc5f142/transformed/cscore-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/9dc479750334a039acad82caa71af7fd/transformed/opencv-cpp-4.5.2-1-headers/",
+          "/Users/teddya./Documents/GitHub/CPP TEST/src/main/include/"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "/Users/teddya./Documents/GitHub/CPP TEST/src/main/cpp/"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "/Users/teddya./Documents/GitHub/CPP TEST/src/main/include/"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  },
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "release",
+    "cppPath": "/Users/teddya./wpilib/2022/roborio/bin/arm-frc2022-linux-gnueabi-g++",
+    "cPath": "/Users/teddya./wpilib/2022/roborio/bin/arm-frc2022-linux-gnueabi-gcc",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "/Users/teddya./.gradle/caches/transforms-3/332993c11c0391da8df0bbbf8e4bd981/transformed/wpilibNewCommands-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/72615a94785a6ac6511fe6c0029009a0/transformed/wpilibc-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/52cadca5d101b004f60848d6ccac130d/transformed/ntcore-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/d744c3e4a592a4a9cbcb119e3f1c328d/transformed/hal-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/01d29e87d88fa3871f3b207030f312a6/transformed/wpimath-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/c561890f1d7fd62cdf0cced8110d4034/transformed/wpiutil-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/5de91f27d876546cbad460c0c2e42155/transformed/netcomm-2022.4.0-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/31121723a6ef10a3e3a2f58cfcb7f843/transformed/chipobject-2022.4.0-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/b40d5fbdd20bc20f66ed8aca64d4dbee/transformed/visa-2022.4.0-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/f8d1dc678d3199cdfde63b3828416131/transformed/cameraserver-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/feca21a2fdb8c8328614076a8cc5f142/transformed/cscore-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/9dc479750334a039acad82caa71af7fd/transformed/opencv-cpp-4.5.2-1-headers/",
+      "/Users/teddya./Documents/GitHub/CPP TEST/src/main/include/",
+      "/Users/teddya./.gradle/caches/transforms-3/e7db8dc2667dfe07fd150f00e79dcd98/transformed/wpilibNewCommands-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/bf2099baeaee6597e6800f987fbb779b/transformed/wpilibc-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/ade3b2ce4509301605730a2574886a9f/transformed/ntcore-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/12166df8a365b867d87965d469915b89/transformed/hal-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/24e512db8dbf3cc1393af318c8fe4a9a/transformed/wpimath-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/5f5f4a5ce61fa0f212836b95156a7311/transformed/wpiutil-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/816cf12645751513696ab5662871ca54/transformed/cameraserver-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/3ae37445f1ca1afb405827c8f200b2fa/transformed/cscore-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/58d78f5e9dedfcce6a8bc6f6e840647b/transformed/opencv-cpp-4.5.2-1-sources/"
+    ],
+    "allLibSources": [
+      "/Users/teddya./.gradle/caches/transforms-3/e7db8dc2667dfe07fd150f00e79dcd98/transformed/wpilibNewCommands-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/bf2099baeaee6597e6800f987fbb779b/transformed/wpilibc-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/ade3b2ce4509301605730a2574886a9f/transformed/ntcore-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/12166df8a365b867d87965d469915b89/transformed/hal-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/24e512db8dbf3cc1393af318c8fe4a9a/transformed/wpimath-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/5f5f4a5ce61fa0f212836b95156a7311/transformed/wpiutil-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/816cf12645751513696ab5662871ca54/transformed/cameraserver-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/3ae37445f1ca1afb405827c8f200b2fa/transformed/cscore-cpp-2022.3.1-sources/",
+      "/Users/teddya./.gradle/caches/transforms-3/58d78f5e9dedfcce6a8bc6f6e840647b/transformed/opencv-cpp-4.5.2-1-sources/"
+    ],
+    "allLibHeaders": [
+      "/Users/teddya./.gradle/caches/transforms-3/332993c11c0391da8df0bbbf8e4bd981/transformed/wpilibNewCommands-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/72615a94785a6ac6511fe6c0029009a0/transformed/wpilibc-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/52cadca5d101b004f60848d6ccac130d/transformed/ntcore-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/d744c3e4a592a4a9cbcb119e3f1c328d/transformed/hal-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/01d29e87d88fa3871f3b207030f312a6/transformed/wpimath-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/c561890f1d7fd62cdf0cced8110d4034/transformed/wpiutil-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/5de91f27d876546cbad460c0c2e42155/transformed/netcomm-2022.4.0-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/31121723a6ef10a3e3a2f58cfcb7f843/transformed/chipobject-2022.4.0-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/b40d5fbdd20bc20f66ed8aca64d4dbee/transformed/visa-2022.4.0-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/f8d1dc678d3199cdfde63b3828416131/transformed/cameraserver-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/feca21a2fdb8c8328614076a8cc5f142/transformed/cscore-cpp-2022.3.1-headers/",
+      "/Users/teddya./.gradle/caches/transforms-3/9dc479750334a039acad82caa71af7fd/transformed/opencv-cpp-4.5.2-1-headers/",
+      "/Users/teddya./Documents/GitHub/CPP TEST/src/main/include/"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "/Users/teddya./Documents/GitHub/CPP TEST/src/main/cpp/"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "/Users/teddya./Documents/GitHub/CPP TEST/src/main/include/"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++17",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-rdynamic",
+              "-pthread",
+              "-O2"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "/Users/teddya./.gradle/caches/transforms-3/332993c11c0391da8df0bbbf8e4bd981/transformed/wpilibNewCommands-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/72615a94785a6ac6511fe6c0029009a0/transformed/wpilibc-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/52cadca5d101b004f60848d6ccac130d/transformed/ntcore-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/d744c3e4a592a4a9cbcb119e3f1c328d/transformed/hal-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/01d29e87d88fa3871f3b207030f312a6/transformed/wpimath-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/c561890f1d7fd62cdf0cced8110d4034/transformed/wpiutil-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/5de91f27d876546cbad460c0c2e42155/transformed/netcomm-2022.4.0-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/31121723a6ef10a3e3a2f58cfcb7f843/transformed/chipobject-2022.4.0-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/b40d5fbdd20bc20f66ed8aca64d4dbee/transformed/visa-2022.4.0-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/f8d1dc678d3199cdfde63b3828416131/transformed/cameraserver-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/feca21a2fdb8c8328614076a8cc5f142/transformed/cscore-cpp-2022.3.1-headers/",
+          "/Users/teddya./.gradle/caches/transforms-3/9dc479750334a039acad82caa71af7fd/transformed/opencv-cpp-4.5.2-1-headers/",
+          "/Users/teddya./Documents/GitHub/CPP TEST/src/main/include/"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "/Users/teddya./Documents/GitHub/CPP TEST/src/main/cpp/"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "/Users/teddya./Documents/GitHub/CPP TEST/src/main/include/"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  }
+]
