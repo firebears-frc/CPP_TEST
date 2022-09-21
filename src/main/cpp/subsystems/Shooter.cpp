@@ -6,7 +6,7 @@
 #include "Constants.h"
 
 Shooter::Shooter() {
-	turretMotor = rev::CANSparkMax(SHOOTER_SHOOTER_MOTOR_CAN_ID, rev::CANSparkMax::MotorType::kBrushless);
+	turretMotor = rev::CANSparkMax(SHOOTER_TURRET_MOTOR_CAN_ID, rev::CANSparkMax::MotorType::kBrushless);
   turretMotor.RestoreFactoryDefaults();
   turretMotor.SetInverted(false);
 }
