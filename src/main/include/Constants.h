@@ -13,3 +13,5 @@
  * command-specific namespaces within this header, which can then be used where
  * they are needed.
  */
+
+static const int SHOOTER_TURRET_MOTOR_CAN_ID = 14;
